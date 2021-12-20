@@ -1,0 +1,4 @@
+{
+    "token": "group token",
+    "mongoUrl": "uri MongoDB"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "setupVkBotJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mail: defany@vk.com VK: https://vk.com/defany",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongoose": "^6.1.2",
+    "vk-io": "^4.4.0",
+    "vk-io-question": "^3.1.1"
+  }
+}
