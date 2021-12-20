@@ -4,7 +4,7 @@
    `npm i setupVkBotJS`
 ## Настройка:
 
-Все токены хранятся - `settings/config.json`
+Токены - `settings/config.json`
 
 Модели пользователя - `database/models.js`
 
