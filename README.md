@@ -1,13 +1,13 @@
 # Быстрая настройка для своего бота VK
 
 ## Установка:
-   `{JavaScript} {npm i setupVkBotJS}`
+   `npm i setupVkBotJS`
 ## Настройка:
 
-Все токены хранятся - `{JavaScript} {settings/config.json}`
+Все токены хранятся - `settings/config.json`
 
-Модели пользователя - `{JavaScript} {database/models.js}`
+Модели пользователя - `database/models.js`
 
-Взаимодействие с бд - `{JavaScript} {database/managers/user.js}`
+Взаимодействие с бд - `database/managers/user.js`
 
 ## Автор: https://vk.com/defany
