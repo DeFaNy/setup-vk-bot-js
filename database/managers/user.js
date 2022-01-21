@@ -2,7 +2,7 @@ const { Users } = require('../models')
 
 const user = {
 
-    get: (id) => Users.findOne({ id }),
+    get: (id) => Users.findOne({ id }).lean(),
     create: (id, refferalValue) => {
 
         const newUser = new Users({
