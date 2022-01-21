@@ -12,7 +12,7 @@ vk.updates.on('message_new', async (msg) => {
     if (!msg.user) {
         msg.send(`Приветствуем, ${await vkHelp.getName(msg.senderId)}`)
 
-        user.create(msg.senderId, msg.refferalValue)
+        user.create(msg.senderId, msg.referralValue)
     }
 
 })
